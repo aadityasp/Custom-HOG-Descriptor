@@ -1,7 +1,7 @@
 # _Custom HOG Descriptor_
 
 ## About/Overview:
-✨This is a mini-project, an implementation of "Navneet Dalal, Bill Triggs's Histograms of Oriented Gradients for Human Detection" in matlab.✨
+✨This is a mini-project, an implementation of ["Navneet Dalal, Bill Triggs's Histograms of Oriented Gradients for Human Detection"](https://hal.inria.fr/inria-00548512/document)  in matlab.✨
 
 ### Objective: 
 To analyze any given image and classify if the image is of a person or not. This method is based on evaluating well-normalized local histograms of image gradient orientations in a dense grid. <br>
