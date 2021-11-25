@@ -22,3 +22,19 @@ overlapping spatial blocks are normalized.
 
 The HOG’s are collected over detection window and linear SVM is applied which is used to
 classify the image as a person/ non-person.
+
+![The flowchart of the algorithm.](/img/flowchart.png "The flowchart of the algorithm.")
+
+## Output:
+The results after testing the images are as follows:
+For positive images, precision= 92%
+For negative images, precision = 93%
+
+![Results](/results/results.jpg "HOG image")
+
+
+## Observations:
+Observed that this algorithm does not perform well in the case of occlusion.
+
+
+
