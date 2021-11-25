@@ -26,11 +26,11 @@ classify the image as a person/ non-person.
 ![The flowchart of the algorithm.](/img/flowchart.png "The flowchart of the algorithm.")
 
 ## Output:
-The results after testing the images are as follows:
-For positive images, precision= 92%
-For negative images, precision = 93%
+The results after testing the images are as follows: <br>
+For positive images, precision= 92% <br>
+For negative images, precision = 93% <br>
 
-![Results](/results/results.jpg "HOG image")
+![Results](/results/results.png "HOG image")
 
 
 ## Observations:
